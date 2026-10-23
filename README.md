@@ -1,6 +1,6 @@
 # Yūrei (幽霊)
 
-Un proyecto concepto que hice en el secundario para aprender mecanicas basicas de programación en C#, IA y creacion de escenario. El prototipo no es jugable, solo fue diseñado para experimentar con la inmersion y estetica del mismo. Fue abandonado de forma temprana por ser demasiado ambicioso para mí.
+Un proyecto concepto que hice en el secundario para aprender mecanicas basicas de programación en C#, IA y creacion de escenario. El prototipo no es jugable, solo fue diseñado para experimentar con la inmersion y estetica del mismo. Fue abandonado de forma temprana por ser demasiado ambicioso para mí. Última modificación: 8 de marzo de 2023.
 
 ## Descarga
 
