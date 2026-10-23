@@ -1,6 +1,6 @@
 # Yūrei (幽霊)
 
-Mi primer "juego" en Unity, basado en C# y de terror. La fecha puede parecer reciente, pero lo desarrolle y lo abandonae el 8 de marzo del 2023. Una écpoca bastante experimental de mi que me gustaria guardar.
+Un proyecto concepto que hice en el secundario para aprender mecanicas basicas de programación en C#, IA y creacion de escenario. El prototipo no es jugable, solo fue diseñado para experimentar con la inmersion y estetica del mismo. Fue abandonado de forma temprana por ser demasiado ambicioso para mí.
 
 ## Descarga
 
