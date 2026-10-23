@@ -4,7 +4,7 @@ Mi primer "juego" en Unity, basado en C# y de terror. La fecha puede parecer rec
 
 ## Descarga
 
-[Releases](https://github.com/FrankzeB/Yurei/releases](https://github.com/FrankzeB/Yurei/releases/tag/v0.1-beta))
+[Releases](https://github.com/FrankzeB/Yurei/releases)
 
 ## Requisitos
 
